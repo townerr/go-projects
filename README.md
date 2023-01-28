@@ -13,3 +13,10 @@ Projects for learning Go
 - CRUD REST api using gin and gorm
 - performs crud operations on fake sales records
 - Uses a postgres db
+
+#### 4. Go-discord-bot
+- A discord bot made using [discordgo](https://github.com/bwmarrin/discordgo) library
+- Has 3 commands:
+  - ```.helloworld``` - replies Hello World
+  - ```.time``` - replies the bots current time and date
+  - ```.pokemon``` - fetches a random pokemon name and number from [poke api](https://pokeapi.co/docs/v2)
